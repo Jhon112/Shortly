@@ -1,0 +1,10 @@
+.shortener-section {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--background-neutral-grayish-violet);
+}
+
+.shortener-container {
+  position: relative;
+  top: -110px;
+}
