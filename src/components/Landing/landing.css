@@ -1,0 +1,44 @@
+.advanced-statistics-container {
+  background-color: var(--background-neutral-grayish-violet);
+}
+
+.advanced-statistics-description {
+  text-align: center;
+}
+
+.landing-cards-container {
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  padding-bottom: 100px;
+  padding-top: 40px;
+}
+
+.landing-cards-container hr {
+  height: 10px;
+  background: var(--primary-cyan);
+  position: absolute;
+  top: 35%;
+  width: 99%;
+  z-index: 0;
+  border-style: none;
+}
+
+.boost-banner {
+  padding: 60px;
+  background-color: var(--primary-dark-violet);
+  background-image: url("../../assets/images/bg-boost-desktop.svg");
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.boost-banner h2 {
+  color: white;
+  font-size: 2.5rem;
+}
+
+.boost-banner a.btn {
+  align-self: center;
+}
