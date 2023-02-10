@@ -22,7 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository to your local machine
 
 ```
-git clone http://signwell-vijcdj@git.codesubmit.io/signwell/front-end-development-exercise-altumn
+git clone git@github.com:Jhon112/Shortly.git
 ```
 
 2. Install the dependencies
