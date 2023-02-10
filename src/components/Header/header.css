@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 30px 10%;
+  margin-bottom: 120px;
+}
+
+.header-left {
+  text-align: left;
+  width: 50%;
+}
+
+.header-right {
+  width: 50%;
+}
+
+.header-right img {
+  max-width: 100%;
+}
+
+.header h1 {
+  margin-bottom: 0.5rem;
+  line-height: 75px;
+}
+
+.header p {
+  font-size: 18px;
+  margin-bottom: 0.5rem;
+  margin-top: 0;
+}
