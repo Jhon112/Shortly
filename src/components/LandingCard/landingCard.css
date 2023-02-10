@@ -1,0 +1,43 @@
+.landing-card-container {
+  width: 31%;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 30px;
+  box-sizing: border-box;
+  height: 260px;
+  background: white;
+  float: left;
+  z-index: 1;
+}
+
+.landing-card-container .card-icon-container {
+  height: 60px;
+  width: 60px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--primary-dark-violet);
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: -50px;
+}
+
+.landing-card-container .card-icon-container .card-icon {
+  width: 60%;
+  height: 60%;
+}
+
+.landing-card-container .card-title {
+  margin: 0;
+  font-family: Poppins-bold;
+  position: relative;
+  top: -25px;
+}
+
+.landing-card-container .description {
+  font-size: 16px;
+  position: relative;
+  top: -10px;
+  margin: 0;
+}
