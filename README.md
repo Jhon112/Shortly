@@ -1,4 +1,4 @@
-# Shortener
+# Shortly
 
 A simple URL shortening app that uses the shrtco API.
 
